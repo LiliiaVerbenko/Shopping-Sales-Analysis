@@ -13,11 +13,10 @@ fostering customer loyalty in the dynamic world of retail.*
 - Power Point 
 
 ### Skills 
-- Dat Mining
+- Data Mining
 - Data Wrangling & Subsetting
-- Data Consistency Checks
-- Regression & Cluster Analysis
-- Time-Series Analysis & Forecasting
+- Regression Analysis
+- Time-Series Analysis
 - Data Visualization in Tableau
 
 ### Focus Areas 
@@ -37,7 +36,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 
 ## Objective
 
-- Examine revenue variations across categories, regions, and time periods.
+- Examine revenue and sales variations across categories, regions, and time periods.
 - Explore the influence of sales trends and customer behavior on overall economic performance.
 
 ## Key Insights
