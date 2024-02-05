@@ -1,7 +1,8 @@
 # Shopping Sales Analysis
 
-*Explore the evolution and disparities in Expected Years of Schooling (EYS) on a global scale. 
-This analysis provides valuable insights into educational prospects across countries, regions, and development groups.*  
+*Explore the nuances of shopping sales, shedding light on crucial elements like revenue distribution, customer dynamics, and sales trends. 
+
+This comprehensive analysis provides valuable insights into the retail landscape, offering a roadmap for enhancing revenue and fostering customer loyalty in the dynamic world of retail.*  
 
 ## General Info
 
@@ -10,18 +11,23 @@ This analysis provides valuable insights into educational prospects across count
 - Tableau 
 
 ### Skills 
-- Data Mining
+- Dat Mining
 - Data Wrangling & Subsetting
 - Data Consistency Checks
 - Regression & Cluster Analysis
 - Time-Series Analysis & Forecasting
 - Data Visualization in Tableau
 
+### Focus Areas 
+- Product-wise Performance Analysis
+- Pricing Distribution Examination
+- Seasonal Sales Trends Exploration
+
 ## Deliverables
 
-- [Tableau Report](https://public.tableau.com/shared/QNNJ7XKZW?:display_count=n&:origin=viz_share_link)
+- [Power Point Report](https://drive.google.com/file/d/1w8Nu0IovvTfd6moqhB8wP4mDU3rdgGqU/view?usp=sharing)
 
-- [Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/years-of-schooling-worldwide)
+- [Dataset](https://www.kaggle.com/code/ahmedabbas757/online-shopping-sales-eda/input)
 
 ## Problem
 
@@ -34,43 +40,158 @@ Analyze the connections between Expected Years of Schooling, Human Development I
 
 ## Key Insights
 
-**_What are the disparities in Education across the world?_**
+**_Total Revenue_** 
+250,01M$
 
-Significant variations of Years of Schooling from high levels in Australia to low in Niger and Chad.
+**_Gross Income_** 
+249,45M$
 
-<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/Global%20Education%201.jpg" width="400">
+**_Average Monthly Growth Rate_** 
+5,76%
 
-<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/Global%20Education%202.png" width="400">
+**_Average Basket Size_** 
+9,5 items
 
+**_Average Basket Size_** 
+9,5 items
 
-**_How do Years of Schooling and GDP vary across continents?_**
+**_Average Revenue per Transaction_** 
+207,8$
 
-Economic prosperity, represented by GDP,does not always align with the Educational Development.
+**_Repeat Purchase Rate_** 
+91,5%
 
-<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/Global%20Education%203.jpg" width="400">
-
-
-**_What is the relationship between Human Development and Expected Years of Schooling?_**
-
-A strong negative correlation (-0.7948) shows that higher Human Development is associated with decreased Expected Years of Schooling. 
+**_Gender-wise Spending_**
 
 <img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
 
-- Cluster 3 suggests diverse regions with low human development. 
-- Clusters 1 and 2 demonstrate positive correlations between higher HDI ranks and increased schooling. 
-- Cluster 4, uniquely, exhibits very high development but a low HDI rank.
+- FEMALE - 62,2%
+- MALE - 37,8%
 
-## Results
+**_Revenue Distribution by City_**
 
-- A consistent rise in average global Expected Years of Schooling from 10 years in 1990  to 13 years in 2021 indicates overall progress. 
-- Significant variations in Expected Years of Schooling exist globally, from high levels in Australia to low values in Africa. 
-- Higher Human Development is associated with decreased Expected Years of Schooling.
-- A nuanced link between GDP and Expected Years of Schooling shows the complexity of factors affecting educational development.
+- CHICAGO
+ ● Top-performing city, contributing $1,819 million.
+- CALIFORNIA
+ ● The second-highest location, with a total revenue of $1,615 million.
+- NEW YORK
+ ● The third-highest revenue city, with a total of $1,056 million.
+
+<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
+
+
+**_Revenue Distribution by Customer and Location_**
+
+- TOP REVENUE LOCATIONS
+ ● Chicago and California are dominating.
+- REVENUE DISTRIBUTION
+ ● Top customer having 3,2 million.
+- CUSTOMER LOYALTY
+ ● Chicago consistently shows loyalty and potentially high purchasing power.
+- CALIFORNIA CONTRIBUTIONS
+ ● California has the third-highest revenue contributions.
+
+<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
+
+
+**_Revenue Distribution by Category_**
+
+<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
+
+- TOP REVENUE CATEGORIES
+ ● Apparel leads, followed by Nest-USA, Office and Drinkware.
+- IMPORTANCE OF CERTAIN CATEGORIES
+ ● Notebooks & Journals, Waze and Nest-Canada make contributions to total revenue, despite not being among the top categories.
+- LOW REVENUE CATEGORIES
+ ● More Bags, Backpacks and Google still contribute to overall sales.
+
+**_Product Category-Wise Sales_**
+
+- TOP PERFORMERS
+ ● Nest-USA is the highest contributor to total sales.
+ ● Apparel, Nest, and Office follow.
+- LOWER SALES CATEGORIES
+ ● Fun, Housewares, More Bags, Waze and Gift Cards have lower popularity/demand.
+- POTENTIAL GROWTH AREAS
+ ● Drinkware, Bags and other categories with moderate sales.
+
+<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
+
+
+**_Comparing Revenue and Sales Distribution_**
+
+- TOP PERFORMERS
+ ● Nest-USA is the highest contributor to total sales.
+ ● Apparel, Nest, and Office follow.
+- LOWER SALES CATEGORIES
+ ● Fun, Housewares, More Bags, Waze and Gift Cards have lower popularity/demand.
+- POTENTIAL GROWTH AREAS
+ ● Drinkware, Bags and other categories with moderate sales.
+
+<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
+
+**_Comparing Revenue and Sales Distribution_**
+
+- LEADING CATEGORIES
+Apparel generates significant revenue, with Nest-USA leading in sales volume.
+- HIGH REVENUE, MODERATE SALES
+Office and Drinkware have higher average prices or beyond direct product sales.
+- CONSISTENT RANKINGS
+Apparel, Nest-USA and Drinkware consistently rank high in both revenue and sales.
+- LOW SALES, DECENT REVENUE
+Fun, Houseware, Google, Backpacks and More Bags have low sales but generate decent revenue.
+
+**_Month-over-Month Sales Growth_** **(5.76%)**
+
+- CHALLENGES IN FEBRUARY AND MAY
+- RECOVERY AND POSITIVE TRENDS
+March, April, June, July, August, October, November, and December.
+- SEASONAL INFLUENCE
+Negative growth in September.
+- CONSISTENT UPWARD TREND IN REVENUE
+Despite fluctuations, the overall average monthly growth rate is positive (5% to 5.76%).
+- YEAR-END STABILITY
+December maintains positive growth **(2.8%)**.
+
+**_The Most Sold Items_** 
+
+- MAZE PEN DOMINANCE
+The highest sales volume among listed products.
+- GOOGLE BRAND DEMAND
+Google-branded items like "Google 22oz Water Bottle" and "Google Sunglasses."
+- TECH GADGETS PREFERENCE
+"Nest Cam Outdoor Security," "Google Laptop and Cellphone," and "Nest Learning Thermostat."
+
+
+## Conclusion
+
+- REVENUE PERFORMANCE DIVERSITY IN SALES
+ ● Total revenue: $250.01 million.
+ ● Repeat purchase rate: 91.49%
+
+- DIVERSITY IN SALES
+ ● Nest products dominate, with Google-branded items contributing significantly.
+ ● Revenue variation across cities: Chicago, California and New York.
+
+- PRODUCT INSIGHTS SALES TRENDS
+ ● Top-grossing category: Nest-USA, strong performance in Office and Drinkware.
+ ● Pricing: Nest category has the highest average prices.
+
+- SALES TRENDS
+ ● Peaks in August and December suggest seasonality. 
+ ● Positive monthly growth rates, despite challenges in February and May.
+
+- CUSTOMER SEGMENTATION
+ ● "High" segment significantly contributes to revenue. Identified improvement opportunity in the "Low" segment.
 
 ## Recommendations
 
-- Implement targeted education interventions in low Expected Years of Schooling countries like Niger and Chad. 
-- Develop strategies for the complex Human Development and Expected Years of Schooling relationship. 
-- Increase education in high Human Development regions, acknowledging the negative correlation. 
-- Continue researching the evolving relationship between education, economic development and overall human development.
+- PRODUCT FOCUS
+ ● Optimize the portfolio with emphasis on top-performing categories like Nest-USA and Office.
+
+- SEGMENTED APPROACH
+ ● Develop targeted strategies for each customer segment, maximizing "High" opportunities and addressing "Low" areas.
+
+- OFFLINE ENHANCEMENT
+ ● Recognize and enhance the Offline shopping experience, consistent with higher offline spending trends
 
