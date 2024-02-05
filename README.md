@@ -62,7 +62,6 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 
 <img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Month-over-Month%20Sales%20Growth.png" width="400">
 
-<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/Global%20Education%203.jpg" width="400">
 
 ### Revenue Distribution by City
 
@@ -99,7 +98,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **LOWER SALES CATEGORIES** Fun, Housewares, More Bags, Waze and Gift Cards have lower popularity/demand.
 - **POTENTIAL GROWTH AREAS** Drinkware, Bags and other categories with moderate sales.
 
-<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
+<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Product%20Category-Wise%20Sales.png" width="400">
 
 ### Comparing Revenue and Sales Distribution
 
@@ -115,6 +114,8 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **SEASONAL INFLUENCE** Negative growth in **September**.
 - **CONSISTENT UPWARD TREND IN REVENUE** Despite fluctuations, the overall average monthly **growth rate** is **positive** (5% to 5.76%).
 - **YEAR-END STABILITY** **December** maintains positive growth **(2.8%)**.
+
+<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Month-over-Month%20Sales%20Growth.png" width="400">
 
 ### The Most Sold Items 
 
