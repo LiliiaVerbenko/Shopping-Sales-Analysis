@@ -42,22 +42,21 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 
 ## Key Insights
 
-_Total Revenue_ = **250,01M$**
+- _Total Revenue_ = **250,01M$**
 
-_Gross Income_ = **249,45M$**
+- _Gross Income_ = **249,45M$**
 
-_Average Monthly Growth Rate_ = **5,76%**
+- _Average Monthly Growth Rate_ = **5,76%**
 
-_Average Basket Size_ = **9,5 items**
+- _Average Basket Size_ = **9,5 items**
 
-_Average Revenue per Transaction_ = **207,8$**
+- _Average Revenue per Transaction_ = **207,8$**
 
-_Repeat Purchase Rate_ = **91,5%**
+- _Repeat Purchase Rate_ = **91,5%**
+
 
 
 ### Gender-wise Spending
-
-
 
 <img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
 
