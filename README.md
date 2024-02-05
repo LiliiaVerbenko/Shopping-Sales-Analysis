@@ -55,14 +55,14 @@ _Average Revenue per Transaction_ = **207,8$**
 _Repeat Purchase Rate_ = **91,5%**
 
 
-**_Gender-wise Spending_**
+#### Gender-wise Spending 
 
 <img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
 
 - Female - 62,2%
 - Male - 37,8%
 
-**_Revenue Distribution by City_**
+#### Revenue Distribution by City_**
 
 - **CHICAGO** Top-performing city, contributing $1,819 million.
 - **CALIFORNIA** The second-highest location, with a total revenue of $1,615 million.
