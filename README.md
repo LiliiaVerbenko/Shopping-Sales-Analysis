@@ -69,7 +69,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **CALIFORNIA** The second-highest location, with a total revenue of $1,615 million.
 - **NEW YORK** The third-highest revenue city, with a total of $1,056 million.
 
-<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Revenue-Distribution-by-City.png" width="400">
+<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Revenue-Distribution-by-City.png" width="500">
 
 
 ###  Revenue Distribution by Customer and Location
@@ -79,7 +79,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **CUSTOMER LOYALTY** Chicago consistently shows loyalty and potentially high purchasing power.
 - **CALIFORNIA CONTRIBUTIONS** California has the third-highest revenue contributions.
 
-<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Revenue-Distribution-by-Customer-and-Location.png" width="400">
+<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Revenue-Distribution-by-Customer-and-Location.png" width="500">
 
 
 ### Revenue Distribution by Category
@@ -88,7 +88,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **IMPORTANCE OF CERTAIN CATEGORIES** Notebooks & Journals, Waze and Nest-Canada make contributions to total revenue, despite not being among the top categories.
 - **LOW REVENUE CATEGORIES** More Bags, Backpacks and Google still contribute to overall sales.
 
-<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Revenue-Distribution-by-Category.png">
+<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Revenue-Distribution-by-Category.png" width="500">
 
 ### Product Category-Wise Sales
 
@@ -98,7 +98,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **LOWER SALES CATEGORIES** Fun, Housewares, More Bags, Waze and Gift Cards have lower popularity/demand.
 - **POTENTIAL GROWTH AREAS** Drinkware, Bags and other categories with moderate sales.
 
-<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Product%20Category-Wise%20Sales.png">
+<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Product%20Category-Wise%20Sales.png" width="500">
 
 ### Comparing Revenue and Sales Distribution
 
@@ -116,7 +116,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **CONSISTENT UPWARD TREND IN REVENUE** Despite fluctuations, the overall average monthly **growth rate** is **positive** (5% to 5.76%).
 - **YEAR-END STABILITY** **December** maintains positive growth **(2.8%)**.
 
-<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Month-over-Month%20Sales%20Growth.png">
+<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Month-over-Month%20Sales%20Growth.png" width="500">
 
 
 ### The Most Sold Items 
