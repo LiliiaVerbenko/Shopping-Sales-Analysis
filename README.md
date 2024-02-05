@@ -60,7 +60,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **Female** - 62,2%
 - **Male** - 37,8%
 
-<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Gender-wise-Spending.png" width="400">
+<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Gender-wise-Spending.png" width="200">
 
 
 ### Revenue Distribution by City
