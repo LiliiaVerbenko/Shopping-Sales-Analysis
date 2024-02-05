@@ -1,8 +1,8 @@
 # Shopping Sales Analysis
 
-*Explore the nuances of shopping sales, shedding light on crucial elements like revenue distribution, customer dynamics, and sales trends. 
+*Explore the nuances of shopping sales, shedding light on crucial elements like revenue distribution, customer dynamics, and sales trends.* 
 
-This comprehensive analysis provides valuable insights into the retail landscape, offering a roadmap for enhancing revenue and fostering customer loyalty in the dynamic world of retail.*  
+*This comprehensive analysis provides valuable insights into the retail landscape, offering a roadmap for enhancing revenue and fostering customer loyalty in the dynamic world of retail.*
 
 ## General Info
 
@@ -31,37 +31,34 @@ This comprehensive analysis provides valuable insights into the retail landscape
 
 ## Problem
 
-Global disparities in Expected Years of Schooling impact a country's overall development. Understanding the influence of education on economic development is crucial for targeting social inequalities.
+The Analysis aims to uncover insights and growth opportunities by examining sales trends and customer preferences.
 
 ## Objective
 
-Analyze the connections between Expected Years of Schooling, Human Development Index (HDI) Rank and GDP.
-
+- Examine revenue variations across categories, regions, and time periods.
+- Explore the influence of sales trends and customer behavior on overall economic performance.
 
 ## Key Insights
 
-**_Total Revenue_** 
-250,01M$
+_Total Revenue_ =
+**250,01M$**
 
-**_Gross Income_** 
-249,45M$
+_Gross Income_ =
+**249,45M$**
 
-**_Average Monthly Growth Rate_** 
-5,76%
+_Average Monthly Growth Rate_ =
+**5,76%**
 
-**_Average Basket Size_** 
-9,5 items
+_Average Basket Size_ =
+**9,5 items**
 
-**_Average Basket Size_** 
-9,5 items
+_Average Revenue per Transaction_
+**207,8$**
 
-**_Average Revenue per Transaction_** 
-207,8$
+_Repeat Purchase Rate_
+**91,5%**
 
-**_Repeat Purchase Rate_** 
-91,5%
-
-**_Gender-wise Spending_**
+** Gender-wise Spending **
 
 <img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
 
