@@ -3,7 +3,7 @@
 Explore the nuances of shopping sales, shedding light on crucial elements like **revenue distribution**, 
 **customer dynamics**, and **sales trends**.
 
-*This analysis analysis provides valuable insights into retail strategies for increasing revenue and customer loyalty in the dynamic world of retail.*
+*Find valuable insights into retail strategies for increasing revenue and customer loyalty in the dynamic world of retail.*
 
 ## General Info
 
