@@ -94,7 +94,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 ### Product Category-Wise Sales
 
 - **TOP PERFORMERS**
-  - Nest-USA is the highest contributor to total sales.
+  - **Nest-USA** is the highest contributor to total sales.
   - Apparel, Nest, and Office follow.
 - **LOWER SALES CATEGORIES** Fun, Housewares, More Bags, Waze and Gift Cards have lower popularity/demand.
 - **POTENTIAL GROWTH AREAS** Drinkware, Bags and other categories with moderate sales.
@@ -108,7 +108,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **CONSISTENT RANKINGS** Apparel, Nest-USA and Drinkware consistently rank high in both revenue and sales.
 - **LOW SALES, DECENT REVENUE** Fun, Houseware, Google, Backpacks and More Bags have low sales but generate decent revenue.
 
-### Month-over-Month Sales Growth_** **(5.76%)**
+### Month-over-Month Sales Growth** **(5.76%)**
 
 - **CHALLENGES IN FEBRUARY AND MAY**
 - **RECOVERY AND POSITIVE TRENDS** March, April, June, July, August, October, November, and December.
