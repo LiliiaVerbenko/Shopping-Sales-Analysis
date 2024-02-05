@@ -55,8 +55,9 @@ _Average Revenue per Transaction_ = **207,8$**
 _Repeat Purchase Rate_ = **91,5%**
 
 
+### Gender-wise Spending
 
-### Gender-wise Spending 
+
 
 <img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
 
