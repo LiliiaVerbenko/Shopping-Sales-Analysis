@@ -69,7 +69,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **CALIFORNIA** The second-highest location, with a total revenue of $1,615 million.
 - **NEW YORK** The third-highest revenue city, with a total of $1,056 million.
 
-<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Revenue-Distribution-by-City.png" width="500">
+<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Revenue-Distribution-by-City.png">
 
 
 ###  Revenue Distribution by Customer and Location
@@ -79,7 +79,7 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **CUSTOMER LOYALTY** Chicago consistently shows loyalty and potentially high purchasing power.
 - **CALIFORNIA CONTRIBUTIONS** California has the third-highest revenue contributions.
 
-<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Revenue-Distribution-by-Customer-and-Location.png" width="500">
+<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Revenue-Distribution-by-Customer-and-Location.png">
 
 
 ### Revenue Distribution by Category
