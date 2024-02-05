@@ -60,9 +60,9 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 - **Female** - 62,2%
 - **Male** - 37,8%
 
-<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Visualization/Month-over-Month%20Sales%20Growth.png" width="400">
+<img src="https://github.com/LiliiaVerbenko/Shopping-Sales-Analysis/blob/main/Shopping-Sales-Analysis/Visualization/Month-over-Month%20Sales%20Growth.png" width="400">
 
-
+<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/Global%20Education%203.jpg" width="400">
 
 ### Revenue Distribution by City
 
