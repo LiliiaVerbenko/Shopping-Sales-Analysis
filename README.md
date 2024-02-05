@@ -60,8 +60,8 @@ The Analysis aims to uncover insights and growth opportunities by examining sale
 
 <img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
 
-- Female - 62,2%
-- Male - 37,8%
+- **Female** - 62,2%
+- **Male** - 37,8%
 
 
 ### Revenue Distribution by City
