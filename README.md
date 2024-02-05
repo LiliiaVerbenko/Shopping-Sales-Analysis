@@ -55,14 +55,16 @@ _Average Revenue per Transaction_ = **207,8$**
 _Repeat Purchase Rate_ = **91,5%**
 
 
-#### Gender-wise Spending 
+
+### Gender-wise Spending 
 
 <img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
 
 - Female - 62,2%
 - Male - 37,8%
 
-#### Revenue Distribution by City_**
+
+### Revenue Distribution by City
 
 - **CHICAGO** Top-performing city, contributing $1,819 million.
 - **CALIFORNIA** The second-highest location, with a total revenue of $1,615 million.
@@ -71,7 +73,7 @@ _Repeat Purchase Rate_ = **91,5%**
 <img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
 
 
-**_Revenue Distribution by Customer and Location_**
+###  Revenue Distribution by Customer and Location
 
 - **TOP REVENUE LOCATIONS** Chicago and California are dominating.
 - **REVENUE DISTRIBUTION** Top customer having 3,2 million.
@@ -81,7 +83,7 @@ _Repeat Purchase Rate_ = **91,5%**
 <img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
 
 
-**_Revenue Distribution by Category_**
+### Revenue Distribution by Category
 
 <img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
 
@@ -89,7 +91,7 @@ _Repeat Purchase Rate_ = **91,5%**
 - **IMPORTANCE OF CERTAIN CATEGORIES** Notebooks & Journals, Waze and Nest-Canada make contributions to total revenue, despite not being among the top categories.
 - **LOW REVENUE CATEGORIES** More Bags, Backpacks and Google still contribute to overall sales.
 
-**_Product Category-Wise Sales_**
+### Product Category-Wise Sales
 
 - **TOP PERFORMERS**
   - Nest-USA is the highest contributor to total sales.
@@ -99,14 +101,14 @@ _Repeat Purchase Rate_ = **91,5%**
 
 <img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.png" width="400">
 
-**_Comparing Revenue and Sales Distribution_**
+### Comparing Revenue and Sales Distribution
 
 - **LEADING CATEGORIES** Apparel generates significant revenue, with Nest-USA leading in sales volume.
 - **HIGH REVENUE, MODERATE SALES** Office and Drinkware have higher average prices or beyond direct product sales.
 - **CONSISTENT RANKINGS** Apparel, Nest-USA and Drinkware consistently rank high in both revenue and sales.
 - **LOW SALES, DECENT REVENUE** Fun, Houseware, Google, Backpacks and More Bags have low sales but generate decent revenue.
 
-**_Month-over-Month Sales Growth_** **(5.76%)**
+### Month-over-Month Sales Growth_** **(5.76%)**
 
 - **CHALLENGES IN FEBRUARY AND MAY**
 - **RECOVERY AND POSITIVE TRENDS** March, April, June, July, August, October, November, and December.
@@ -114,7 +116,7 @@ _Repeat Purchase Rate_ = **91,5%**
 - **CONSISTENT UPWARD TREND IN REVENUE** Despite fluctuations, the overall average monthly **growth rate** is **positive** (5% to 5.76%).
 - **YEAR-END STABILITY** **December** maintains positive growth **(2.8%)**.
 
-**_The Most Sold Items_** 
+### The Most Sold Items 
 
 - **MAZE PEN DOMINANCE** The highest sales volume among listed products.
 - **GOOGLE BRAND DEMAND** Google-branded items like **"Google 22oz Water Bottle"** and **"Google Sunglasses."**
