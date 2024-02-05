@@ -26,7 +26,7 @@ Explore the nuances of shopping sales, shedding light on crucial elements like *
 
 ## Deliverables
 
-- [Power Point Report](https://drive.google.com/file/d/1w8Nu0IovvTfd6moqhB8wP4mDU3rdgGqU/view?usp=sharing)
+- [Power Point Report](https://drive.google.com/file/d/1BLZspfI0A2gUQ3smEBNkyAYIcRVi03_C/view?usp=share_link)
 
 - [Dataset](https://www.kaggle.com/code/ahmedabbas757/online-shopping-sales-eda/input)
 
