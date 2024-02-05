@@ -9,7 +9,8 @@ fostering customer loyalty in the dynamic world of retail.*
 
 ### Tools
 - Python
-- Tableau 
+- Tableau
+- Power Point 
 
 ### Skills 
 - Dat Mining
